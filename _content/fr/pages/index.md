@@ -25,11 +25,12 @@ dataList: []
 
 {% twoColumns type="fixedFluid", fixedSide="fixedRight" %}
 {% twoColumnsItem %}
-Écoute active & conseils personnalisés
-Alignement entre la personne et son projet
-Clarification administrative (TVA, statut, plan financier, etc.)
-Identification des partenaires-clés à Bruxelles
-Mise en place d’un plan stratégique simple et réaliste
+- Écoute active & conseils personnalisés
+- Alignement entre la personne et son projet
+- Définir la place de l'IA dans le projet
+- Clarification administrative (TVA, statut, plan financier...)
+- Identification des partenaires-clés à Bruxelles
+- Mise en place d’un plan stratégique simple et réaliste
 {% endtwoColumnsItem %}
 {% twoColumnsItem %}
 {% image src="/_images/img_1040xxy.webp", alt="Anna Bánfi coaching", width="200" %}
