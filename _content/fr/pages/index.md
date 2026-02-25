@@ -21,9 +21,8 @@ dataList: []
 
 {% image src="/_images/annamorphose-logo-doc.webp", alt="Annamorphose coaching pour s'entreprendre" %}
 
-# Annamorphose
-
-# coaching pour s'entreprendre
+# Annamorphose 
+coaching pour s'entreprendre
 
 Un accompagnement sur mesure pour entreprendre en confiance
 
