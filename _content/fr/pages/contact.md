@@ -8,7 +8,7 @@ name: Contact
 eleventyNavigation:
   title: ''
   parent: ''
-  order: 0
+  order: 1
 metadata: null
 preview: null
 tags: []
