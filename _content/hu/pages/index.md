@@ -4,7 +4,7 @@ lang: hu
 createdAt: 2026-02-25T09:48:00.000Z
 uuid: 3d8fe1cfef67
 localizationKey: 6348c0100f86
-name: Accueil
+name: Főoldal
 eleventyNavigation:
   title: ''
   parent: ''
@@ -23,7 +23,7 @@ dataList: []
 
 Annamorphose coaching 
 
-személyre szabott ú az önmegvalósításhoz és vállalkozáshoz
+személyre szabott út az önmegvalósításhoz és vállalkozáshoz
 
 {% sectionTwoColumns %}
 
