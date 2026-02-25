@@ -46,7 +46,7 @@ Rien et tout. Rien, au sens où je n'ai pas de baguette magique : la solution é
 
 Pas de soucis! Je suis intégrée dans un réseau de coachs, je peux vous diriger vers un confrère ou une consœur pour que vous trouviez le style que vous recherchez.
 
-{% sectionTwoColumns %}
+{% sectionTwoColumns class-"prose" %}
 {% sectionHeader %}
 ## Pour qui ?
 {% endsectionHeader %}
