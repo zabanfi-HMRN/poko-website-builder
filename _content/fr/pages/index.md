@@ -33,7 +33,7 @@ dataList: []
 - Mise en place d’un plan stratégique simple et réaliste
 {% endtwoColumnsItem %}
 {% twoColumnsItem %}
-{% image src="/_images/img_1040xxy.webp", alt="Anna Bánfi coaching", width="200" %}
+{% image src="/_images/img_1040xxy.webp", alt="Anna Bánfi coaching", width="250" %}
 {% endtwoColumnsItem %}
 {% endtwoColumns %}
 
