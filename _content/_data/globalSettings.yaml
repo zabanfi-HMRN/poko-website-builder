@@ -1,0 +1,14 @@
+siteName: Annamorphose coaching
+productionUrl: https://www.annamorphose.be
+logo: ''
+htmlHead: ''
+cssHead: ''
+languages:
+  - code: fr
+    status: published
+    keepUrlPrefix: false
+  - code: hu
+    status: published
+    keepUrlPrefix: false
+collections:
+  - services
