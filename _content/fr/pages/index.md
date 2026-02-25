@@ -39,7 +39,12 @@ Un accompagnement sur mesure pour entreprendre en confiance
 {% endtwoColumnsItem %}
 {% twoColumnsItem %}
 {% image src="/_images/img_1040xxy.webp", alt="Anna Bánfi coaching", width="250" %}
+
 {% endtwoColumnsItem %}
 {% endtwoColumns %}
-
+{% sectionFooter %}
+Je m'appelle Anna :)
+{% endsectionFooter %}
 {% endsectionTwoColumns %}
+
+Ma mission est de vous aider à trouver une vie professionnelle en équilibre.
