@@ -21,8 +21,7 @@ dataList: []
 
 {% image src="/_images/annamorphose-logo-doc.webp", alt="Annamorphose coaching pour s'entreprendre" %}
 
-# Annamorphose 
-coaching pour s'entreprendre
+# Annamorphose coaching pour s'entreprendre
 
 Un accompagnement sur mesure pour entreprendre en confiance
 
@@ -40,11 +39,10 @@ Un accompagnement sur mesure pour entreprendre en confiance
 {% twoColumnsItem %}
 {% image src="/_images/img_1040xxy.webp", alt="Anna Bánfi coaching", width="250" %}
 
+Je m'appelle Anna :)
 {% endtwoColumnsItem %}
 {% endtwoColumns %}
-{% sectionFooter %}
-Je m'appelle Anna :)
-{% endsectionFooter %}
+
 {% endsectionTwoColumns %}
 
 Ma mission est de vous aider à trouver une vie professionnelle en équilibre.
