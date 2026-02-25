@@ -27,7 +27,7 @@ Un accompagnement sur mesure pour entreprendre en confiance
 
 {% sectionTwoColumns %}
 
-{% twoColumns type="fixedFluid", fixedSide="fixedRight" %}
+{% twoColumns type="fixedFluid", widthFixed="150", fixedSide="fixedRight" %}
 {% twoColumnsItem %}
 - Écoute active & conseils personnalisés
 - Alignement entre la personne et son projet
@@ -37,7 +37,7 @@ Un accompagnement sur mesure pour entreprendre en confiance
 - Mise en place d’un plan stratégique simple et réaliste
 {% endtwoColumnsItem %}
 {% twoColumnsItem %}
-{% image src="/_images/img_1040xxy.webp", alt="Anna Bánfi coaching", width="250" %}
+{% image src="/_images/img_1040xxy.webp", alt="Anna Bánfi coaching", width="150" %}
 
 Je m'appelle Anna :)
 {% endtwoColumnsItem %}
