@@ -19,9 +19,9 @@ vars: null
 dataList: []
 ---
 
-{% image src="/_images/annamorphose-logo-doc.webp" %}
+{% image src="/_images/annamorphose-logo-doc.webp", alt="Annamorphose coaching vállalkozóknak önmegvalósításra" %}
 
-# Annamorphose coaching 
+# Annamorphose coaching
 
 # egy nézőpont ahol, ahol minden összehangolódik
 
