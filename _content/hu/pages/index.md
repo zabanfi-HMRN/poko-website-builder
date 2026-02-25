@@ -21,7 +21,9 @@ dataList: []
 
 {% image src="/_images/annamorphose-logo-doc.webp" %}
 
-Annamorphose coaching 
+# Annamorphose coaching 
+
+# egy nézőpont ahol, ahol minden összehangolódik
 
 személyre szabott út az önmegvalósításhoz és vállalkozáshoz
 
