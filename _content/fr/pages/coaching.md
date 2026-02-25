@@ -31,7 +31,7 @@ Efficacité.
 
 ## C'est quoi le coaching?
 
-Le coaching est une approche maïeutique qui élève sans répondre à la place de l'autre. 
+Le coaching est une approche maïeutique qui élève sans répondre à la place de l'autre.
 "Le but du coaching est d'engendrer des changements durables, sur les plans cognitifs, émotionnels et comportementaux, afin de faciliter l'atteinte des objectifs et le développement des performances, tant dans le domaine de la vie professionnelle que dans celui de vie privée." (Douglas & McCluley, 1999)
 
 ## En quoi le coaching peut-il m'aider?
@@ -48,7 +48,7 @@ Pas de soucis! Je suis intégrée dans un réseau de coachs, je peux vous dirige
 
 {% sectionTwoColumns %}
 {% sectionHeader %}
-pour qui 
+## Pour qui ?
 {% endsectionHeader %}
 {% twoColumns  %}
 {% twoColumnsItem %}
