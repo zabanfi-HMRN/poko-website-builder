@@ -19,7 +19,11 @@ vars: null
 dataList: []
 ---
 
-# Un accompagnement sur mesure pour entreprendre en confiance
+{% image src="/_images/annamorphose-logo-doc.webp" %}
+
+Annamorphose coaching 
+
+személyre szabott ú az önmegvalósításhoz és vállalkozáshoz
 
 {% sectionTwoColumns %}
 
